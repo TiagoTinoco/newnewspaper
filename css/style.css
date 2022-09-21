@@ -24,6 +24,11 @@ p {
     margin: 0px;
 }
 
+strong {
+    color: white;
+    font-weight: 700;
+}
+
 li {
     list-style: none;
 }
@@ -160,7 +165,12 @@ aside li {
 }
 
 aside p {
-    margin-bottom: 20px;
+    margin: 10px 0px;
+}
+
+aside strong {
+    font-weight: 600;
+    color: orangered;
 }
 
 /* Adverts */
